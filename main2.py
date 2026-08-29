@@ -130,7 +130,7 @@ class Enemy:
         pass
 
     def check_stamina_zero(self):
-        if self.stamina == 0 :
+#        if self.stamina == 0 :
 
 
     def die(self):
